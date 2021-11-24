@@ -3,10 +3,11 @@
 
 <h3 align="left">My PhD https://iris.uniroma1.it/handle/11573/1558575</h3>
 
+<!--
 <p align="left">
 <a href="https://iris.uniroma1.it/handle/11573/1558575" target="blank"><img align="center" src="https://iris.uniroma1.it/sr/cineca/images/interface/logo_instance.png" alt="????" height="30" width="40" /></a>
 </p>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isenmouthe&label=Profile%20views&color=0e75b6&style=flat" alt="isenmouthe" /> </p>
 
 <h3 align="left">Connect with me:</h3>

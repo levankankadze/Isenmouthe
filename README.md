@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm levan</h1>
-<h3 align="center">Accelerator physicist (my PhD ;-)), interested in Machine Learning</h3>
+<h3 align="center">Accelerator physicist, interested in Machine Learning</h3>
+
+<h3 align="left">My PhD https://iris.uniroma1.it/handle/11573/1558575</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isenmouthe&label=Profile%20views&color=0e75b6&style=flat" alt="isenmouthe" /> </p>
 

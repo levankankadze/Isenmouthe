@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm levan</h1>
-<h3 align="center">Accelerator physicist, interested in Data and Machine Learning</h3>
+<h3 align="center">physicist, interested in Data and Machine Learning</h3>
 
 <h3 align="left">My PhD https://iris.uniroma1.it/handle/11573/1558575</h3>
 
